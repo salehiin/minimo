@@ -1,2 +1,2 @@
 # minimo
-psd to html
+https://salehiin.github.io/minimo/
